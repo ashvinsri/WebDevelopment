@@ -1,0 +1,27 @@
+.top
+{
+  display:inline-block;
+  position:relative;
+  left:410px;
+  background-color:red;
+  height:200px;
+  width:200px;
+}
+.middle
+{
+  position:relative;
+  right:200px;
+  display:inline-block;
+  background-color:blue;
+  height:200px;
+  width:200px;
+}
+.bottom
+{
+  position:relative;
+  display:inline-block;
+  background-color:green;
+  right:200px;
+  height:200px;
+  width:200px;
+}

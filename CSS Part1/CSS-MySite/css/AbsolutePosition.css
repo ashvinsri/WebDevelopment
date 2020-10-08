@@ -1,0 +1,26 @@
+.parent
+{
+  position:relative;
+  border:10px solid black;
+  display:inline-block;
+  height:700px;
+  width:700px;
+  background-color:red;
+}
+.child
+{
+  position:absolute;
+  right:30px;
+  height:200px;
+  width:200px;
+  background-color:blue;
+
+}
+.parent2
+{
+  border:10px solid black;
+  display:inline-block;
+  height:300px;
+  width:300px;
+  background-color:orange;
+}

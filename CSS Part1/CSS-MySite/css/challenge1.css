@@ -1,0 +1,23 @@
+.top{
+  background-color:skyblue;
+  height:200px;
+  width:200px;
+  border:10px solid black;
+  padding:20px;
+}
+.middle{
+  background-color:red;
+  height:200px;
+  width:200px;
+  border:20px solid black;
+  padding:20px;
+  margin-left:260px;
+}
+.bottom{
+  background-color:yellow;
+  height:200px;
+  width:200px;
+  border:10px solid black;
+  padding:20px;
+  margin-left:540px;
+}
